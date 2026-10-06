@@ -6,8 +6,8 @@ modules:
     enabled:
         - Asserts
         - WebDriver:
-              url: https://tages.ru/
-              port: 4444
+              url: https://stellantis.autocrm.ru/
+              port: 59958
               browser: chrome
               window_size: 1920x1200
               capabilities:
